@@ -6,3 +6,4 @@
 - numpy
 - sklearn 0.19.1
 - matplotlib 2.1.2
+- pillow
